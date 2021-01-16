@@ -90,8 +90,44 @@
         {
             "id":14,
             "url":"/wallpapers/images/wp_14.jpg",
-            "color":"#cde1e2",
+            "color":"#44768d",
             "text":"#000000"
+        },
+        {
+            "id":15,
+            "url":"/wallpapers/images/wp_15.jpg",
+            "color":"#fcf602",
+            "text":"#FFFFFF"
+        },
+        {
+            "id":16,
+            "url":"/wallpapers/images/wp_16.jpg",
+            "color":"#0d0906",
+            "text":"#FFFFFF"
+        },
+        {
+            "id":17,
+            "url":"/wallpapers/images/wp_17.jpg",
+            "color":"#3a0c19",
+            "text":"#FFFFFF"
+        },
+        {
+            "id":18,
+            "url":"/wallpapers/images/wp_18.jpg",
+            "color":"#00050b",
+            "text":"#FFFFFF"
+        },
+        {
+            "id":19,
+            "url":"/wallpapers/images/wp_19.jpg",
+            "color":"#213533",
+            "text":"#FFFFFF"
+        },
+        {
+            "id":20,
+            "url":"/wallpapers/images/wp_20.jpg",
+            "color":"#000002",
+            "text":"#FFFFFF"
         }
     ]   
 }
