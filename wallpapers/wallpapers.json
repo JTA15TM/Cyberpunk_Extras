@@ -1,12 +1,97 @@
 {
-    "domain":"", 
+    "domain":"https://raw.githubusercontent.com/JTA15TM/Cyberpunk_Extras/main", 
     "end":"?raw=true",
     "items":
     [
         {
             "id":0,
-            "url":"",
-            "color":""
+            "url":"/wallpapers/images/wp_0.jpg",
+            "color":"#3b2d24",
+            "text":"#FFFFFF"
+        },
+        {
+            "id":1,
+            "url":"/wallpapers/images/wp_1.jpg",
+            "color":"#fcf602",
+            "text":"#FFFFFF"
+        },
+        {
+            "id":2,
+            "url":"/wallpapers/images/wp_2.jpg",
+            "color":"#010214",
+            "text":"#FFFFFF"
+        },
+        {
+            "id":3,
+            "url":"/wallpapers/images/wp_3.jpg",
+            "color":"#181a27",
+            "text":"#FFFFFF"
+        },
+        {
+            "id":4,
+            "url":"/wallpapers/images/wp_4.jpg",
+            "color":"#f2f2fe",
+            "text":"#000000"
+        },
+        {
+            "id":5,
+            "url":"/wallpapers/images/wp_5.jpg",
+            "color":"#040509",
+            "text":"#FFFFFF"
+        },
+        {
+            "id":6,
+            "url":"/wallpapers/images/wp_6.jpg",
+            "color":"#0c1510",
+            "text":"#FFFFFF"
+        },
+        {
+            "id":7,
+            "url":"/wallpapers/images/wp_7.jpg",
+            "color":"#fbf700",
+            "text":"#000000"
+        },
+        {
+            "id":8,
+            "url":"/wallpapers/images/wp_8.jpg",
+            "color":"#071037",
+            "text":"#FFFFFF"
+        },
+        {
+            "id":9,
+            "url":"/wallpapers/images/wp_9.jpg",
+            "color":"#0e579c",
+            "text":"#FFFFFF"
+        },
+        {
+            "id":10,
+            "url":"/wallpapers/images/wp_10.jpg",
+            "color":"#1a475e",
+            "text":"#FFFFFF"
+        },
+        {
+            "id":11,
+            "url":"/wallpapers/images/wp_11.jpg",
+            "color":"#06050a",
+            "text":"#FFFFFF"
+        },
+        {
+            "id":12,
+            "url":"/wallpapers/images/wp_12.jpg",
+            "color":"#192615",
+            "text":"#FFFFFF"
+        },
+        {
+            "id":13,
+            "url":"/wallpapers/images/wp_13.jpg",
+            "color":"#cde1e2",
+            "text":"#000000"
+        },
+        {
+            "id":14,
+            "url":"/wallpapers/images/wp_14.jpg",
+            "color":"#cde1e2",
+            "text":"#000000"
         }
     ]   
 }
